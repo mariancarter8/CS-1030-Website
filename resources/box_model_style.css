@@ -1,0 +1,56 @@
+/*
+orange #ffa759
+  white: #FFFFFF
+  light blue #4ecdf4
+  accent 1 to light blue #217FA8
+  Accent 2 #A84A21
+*/
+
+h1{color: #217FA8;
+  text-align: center;
+}
+
+table, td, th{
+  border: 3px;
+  border-collapse: collapse;
+  border-color: #A84A21;
+  border-style: groove;
+  border-width: thick;
+  padding: 4px;
+}
+
+a{
+  color: #217FA8;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#A84A21 ;
+}
+
+p.text_content{
+background-color: #217FA8;
+color: #FFFFFF;
+max-width: 800px;
+padding: 8px;
+border: ridge;
+border-color:#A84A21 ;
+border-width: 4px;
+margin: 10px;
+}
+
+div{
+  background-color:#217FA8 ;
+  max-width: 646px;
+  padding: 24px 300px 24px 500px;
+  border: dashed;
+  border-width: 6px;
+  border-color:#A84A21 ;
+  margin: 16px;
+}
+
+body{
+  margin: 24px;
+  font-size: 1.5em;
+}

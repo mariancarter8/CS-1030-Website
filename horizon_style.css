@@ -1,0 +1,26 @@
+body{background-color: #c4e1ed;
+    padding: 30px;
+    font-size: 1.3em;
+}
+
+h1{text-align: center;}
+
+h2{text-align: center;}
+
+a:hover{
+    color:#e75416 ;
+  }
+
+table, td, th{
+    border: 3px;
+    border-collapse: collapse;
+    border-style: ridge;
+    border-color: #d43925;
+    padding: 8px;
+}
+
+p{
+padding: 8px;
+margin: 10px;
+}
+
